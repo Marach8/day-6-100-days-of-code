@@ -1,7 +1,7 @@
 a = 'emmanuel'
 b = '1234'
 f = 'marach'
-e = 'John'
+e = 'John.'
 
 c = input('Enter your username: ')
 print()
